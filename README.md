@@ -1,29 +1,32 @@
 # About Me
 
-Welcome to my personal GitHub Pages site! My name is Behdad Alizadeh, and this site introduces who I am, my interests, and my projects.
+Welcome to my personal GitHub Pages site! My name is Behdad Alizadeh, and this site introduces who I am, my skills, and my projects.
 
 ## 👋 Introduction
 
-Hi! I'm Behdad Alizadeh, a passionate developer and lifelong learner. I enjoy working with new technologies, building useful tools, and sharing knowledge with the community.
+Hi! I'm Behdad Alizadeh, a passionate backend developer and .NET enthusiast. I enjoy building robust applications, designing APIs, and creating solutions for business needs.
 
 ## 💼 What I Do
 
-- Software Development
-- Open Source Contribution
-- Web Design & Development
-- Technical Writing
-- Learning and experimenting with new frameworks
+- Backend Development with .NET and C#
+- Building admin panels using Blazor
+- Designing and implementing APIs for frontend consumption
+- Working with SQL Server databases
+- Integrating messaging systems like RabbitMQ and Kafka
 
 ## 🛠️ Skills
 
-- Languages: Python, JavaScript, HTML, CSS
-- Frameworks: React, Django, Node.js
-- Tools: Git, GitHub, VS Code, Linux
-- Others: Responsive Design, API Integration
+- **Languages:** C#
+- **Frameworks:** .NET, Blazor
+- **Databases:** SQL Server
+- **Messaging:** RabbitMQ, Apache Kafka
+- **API Development:** RESTful APIs for frontend applications
+- **Other:** Git, GitHub, Software Architecture
 
 ## 🌱 Interests
 
-- Coding and building web applications
+- Developing scalable web applications
+- Exploring new technologies in backend development
 - Reading tech blogs and books
 - Exploring AI and Machine Learning
 - Traveling and photography
@@ -31,12 +34,8 @@ Hi! I'm Behdad Alizadeh, a passionate developer and lifelong learner. I enjoy wo
 ## 📫 Contact
 
 - GitHub: [behdadalizadeh](https://github.com/behdadalizadeh)
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 📝 Projects & Portfolio
-
-Check out my latest projects and contributions on [my GitHub profile](https://github.com/behdadalizadeh).
+- Email: behdadalizadeh@outlook.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/behdad-alizadeh-baa788139)
 
 ---
 
