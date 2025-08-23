@@ -35,7 +35,7 @@ Hi! I'm Behdad Alizadeh, a passionate backend developer and .NET enthusiast. I e
 
 - GitHub: [behdadalizadeh](https://github.com/behdadalizadeh)
 - Email: behdadalizadeh@outlook.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/behdad-alizadeh-baa788139)
+- LinkedIn: [behdadalizadeh](https://www.linkedin.com/in/behdad-alizadeh-baa788139)
 
 ---
 
